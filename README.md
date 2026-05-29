@@ -54,10 +54,10 @@ For Software:
 ![WelcomePage](images/WelcomePage.png)
 *A concept page about choosing between two pills (red and blue), each leading to different fictional “worlds” with no real outcome.*
 
-![VoidSpeak](VoidSpeak/VoidSpeak.png)
+![VoidSpeak](VoidSpeak/VoidSpeak_image.png)
 *A cyberpunk-style multi-chat interface where the AI replies with random keyboard characters, simulating meaningless conversations.*
 
-![AirTaste](AirTaste/AirTaste.png)
+![AirTaste](AirTaste/AirTaste_image.png)
 *A web app that lets users imagine tasting different flavors through the air, simulating a pointless but fun sensory experience.*
 
 # Diagrams

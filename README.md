@@ -51,17 +51,17 @@ npx live-server
 For Software:
 
 # Screenshots
-![WelcomePage](WelcomePage.png)
+![WelcomePage](images/WelcomePage.png)
 *A concept page about choosing between two pills (red and blue), each leading to different fictional “worlds” with no real outcome.*
 
-![VoidSpeak](VoidSpeak.png)
+![VoidSpeak](VoidSpeak/VoidSpeak.png)
 *A cyberpunk-style multi-chat interface where the AI replies with random keyboard characters, simulating meaningless conversations.*
 
-![AirTaste](AirTaste.png)
+![AirTaste](AirTaste/AirTaste.png)
 *A web app that lets users imagine tasting different flavors through the air, simulating a pointless but fun sensory experience.*
 
 # Diagrams
-![Workflow](Workflow.png)
+![Workflow](images/Workflow.png)
 *A simple decision-based workflow where the user starts at a main screen, chooses between two options—"Blue Pill" leading to VoidSpeak or "Red Pill" leading to AirTaste—both ultimately converging to the same final outcome.*
 
 ### Project Demo

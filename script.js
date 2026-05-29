@@ -1,5 +1,5 @@
-document.getElementById("link1").href = "https://voidspeak.vercel.app/";
-document.getElementById("link2").href = "https://airtaste.vercel.app/";
+document.getElementById("link1").href = "./VoidSpeak/";
+document.getElementById("link2").href = "./AirTaste/";
 
 const canvas = document.getElementById("bg");
 const ctx = canvas.getContext("2d");

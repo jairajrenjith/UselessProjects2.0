@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AirTaste™ — Blockchain-Secured AI Air Flavor Analyzer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">AirTaste™</div>
+    <p class="tagline">Blockchain-Secured AI Air Flavor Analyzer</p>
+  </header>
+
+  <main>
+    <label for="datePicker">Select a Date:</label>
+    <input type="date" id="datePicker" />
+    <button id="analyzeBtn">Analyze Air Taste</button>
+
+    <div id="loading" class="hidden">Analyzing molecular flavor profile...</div>
+
+    <div id="result">
+      <p id="flavorOutput"></p>
+      <p id="accuracyOutput"></p>
+      <p id="hashOutput"></p>
+    </div>
+
+    <div id="audioSection">
+      <h2>Inspirational Audio</h2>
+      <audio id="audioPlayer">
+        <source src="Kilukkamair.mp3" type="audio/mpeg">
+      </audio>
+      <div class="audio-visualizer" id="audioVisualizer">
+      </div>
+      <button id="playPauseAudio">▶ Play</button>
+    </div>
+
+  </main>
+
+  <footer>
+    <p>© 2025 AirTaste™ Labs — All Rights Reserved</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+

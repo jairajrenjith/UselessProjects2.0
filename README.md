@@ -71,9 +71,9 @@ https://drive.google.com/file/d/1osgnN27a9owS4hi-BuIQzDxpZahCksRA/view
 *In this demo, you enter the Pill Paradox and choose between two worlds. Picking the red pill opens VoidSpeak, a chat where the bot responds with nothing but a single random character — turning silence into its own strange language. Choosing the blue pill opens AirTaste, where every response is a burst of light, airy randomness, like tasting words without meaning. Two choices, two worlds — both equally absurd, gives useless results.*
 
 # Additional Demos
-[https://voidspeak.vercel.app/](https://steady-cendol-c436ac.netlify.app/) - VoidSpeak (Blue Pill)
+[https://steady-cendol-c436ac.netlify.app/](https://steady-cendol-c436ac.netlify.app/) - VoidSpeak (Blue Pill)
 
-[https://airtaste.vercel.app/](https://loquacious-lollipop-f7173a.netlify.app/) - AirTaste (Red Pill)
+[https://loquacious-lollipop-f7173a.netlify.app/](https://loquacious-lollipop-f7173a.netlify.app/) - AirTaste (Red Pill)
 
 ## Team Contributions
 - Jairaj R: Did the entire project.
